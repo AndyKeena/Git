@@ -1,0 +1,13 @@
+			Basic Git commands 
+
+clone - bring the Git repository into the local machine 
+commit - saves the changes made
+push - upload the changes in to the Git repository
+pull - oppsite of push. Get the latest changes from the repository into the local machine 
+diff - state the difference between the working director and last commitment
+log - shows a log of all commints incluing the commit message , authore and timespam in a 	      repository
+add - track files and changes in Git
+init - initialize a new repository in the current directory
+fetch - fetches changs from repository
+branch - list all the branches and highlights the current branch
+merge - merge the changes from one branch into the current branch

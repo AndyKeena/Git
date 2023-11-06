@@ -1,0 +1,1 @@
+SSL(Secure Socket Layer) ensures that the interactions with websites in github and interactions with git repositories in github are private, secure and protected. It protects the sensitive information. Setting up multiple SSL keys ensures that the credentials remains secure. 
